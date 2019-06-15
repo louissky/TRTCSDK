@@ -1,27 +1,3 @@
 //将 TEST_ACCOUNT 的内容替换成"控制台/实时音视频/快速上手第三步"生成的配置文件内容
-const TEST_ACCOUNT = {
-  "sdkappid": 1400037025,
-  "users": [{
-      "userId": "mini_test_01",
-      "userToken": "eJxlj11PgzAYhe-5FYRrY9pCMXo3mDMDnDDnGr1pkBb2QmCVVt1H9t9VXCKJ5-Z5ck7O0bJt21klj5d5UWzfO8PNXknHvrEd5Fz8QaVA8Nxwtxf-oNwp6CXPSyP7AWJKKUFo7ICQnYESzkYLHXAjteEIjywtGj5M-dZ43x3uFSJ0rEA1wPvb53CehfqtgLTx-UPMvLq8jgq6fq1j5sqqbHLNRJYnbffyELiomm8m0SJj6ScjswTSaDZdqLTe7JYTJsowiPXTAS-NNAjV6m6vR5MGWnn*5VGCMfLJiH7IXsO2GwSCMMXERT9xrJP1BXoAYCo_"
-    },
-    {
-      "userId": "mini_test_02",
-      "userToken": "eJxlj81Og0AYRfc8BWFtZH46rW3iAhCVFpoYW42rybR8wFfDT4ZppTW*u0qbSOLdnpN7cz8t27adVfx8rbbbel8ZaY4NOPbMdohz9QebBlOpjOQ6-Qeha1CDVJkB3UMqhGCEDB1MoTKY4cUosUJpoDWSsIHVpu*ynzrXjH46*IQwMVQw72ESroPIf9TqNQauF5NiE8z3cZMtCq3Kzt21nesXyTpfqfH0DVzqYeh93POXeRUUp1DoEg7LPE28eFwrP-busJ0mYvcUZQ-HzTKIbgeTBku4-BoJRim54QN6AN1iXfUCI1RQxslvHOvL*gZZ0V*3"
-    },
-    {
-      "userId": "mini_test_03",
-      "userToken": "eJxlj0tvgkAUhff8CsK6ae7MMKhNXPDQvjQEkdR0M6EyNLcITodpozT9723RRJLe7fflnHO-LNu2nfUivc632-1HY4Q5KunYN7YDztUFKoWFyI1guvgH5UGhliIvjdQ9JJxzCjB0sJCNwRLPRo0NCiNbI4ANrLaoRF91inF-M9gIKB8q*NrD5SwJ7-2omx0yUGFa4xMEa7*629A5SK8KVm95tqOh171E*nbMEh*DLItl7S4V0eZhEtE4Sd8XpRqNcfXIn*eFF*dH6m92nSLJdDqoNFjL818up4TAZDjoU*oW900vUCCcUAZ-51jf1g*obV5Z"
-    },
-    {
-      "userId": "mini_test_04",
-      "userToken": "eJxlj8FOg0AURfd8BWFbY98A0yFNXEAlFsssTDW1biZQBnihwGQYTRvjv6vYRJK*7Tm5975Py7Zt5znd3maHQ--eGWHOSjr20nbAufmHSmEhMiM8XVxBeVKopchKI-UICaXUBZg6WMjOYIkXo8UOhZGDEeBPrKFoxFj1F*P-ZHgMXDpVsBohj19Wyfo1YLtg8Xji0XCf8AQhD4563TdxXVWzzVPBvbDcU8VYHWIcwlwd0yp6aHMW5v3cxDumOV8o8rZJcbY668jU*1xu4wbuJpUGW3n5y6cuIQSmgz6kHrDvRsEFQonrwe851pf1DZ4VXmI_"
-    },
-    {
-      "userId": "mini_test_05",
-      "userToken": "eJxlj0tPg0AYRff8CsJWI8NjQjRxQbQYG2poa1VWE9oZysdrxmEG*4j-3YpNxHi35*Te3KNhmqb1HC*vss2G61YRtRfMMm9MC1mXv1AIoCRTxJP0H2Q7AZKRLFdMDtDBGLsIjR2grFWQw9looAWiWKcIwiOroxUZpn5q-FOHFyD3jwLbAc4mq7vHqKq2ST8VXYmjna5SFKSrohBNnXDbr-PDOrlfvGv*UZWLECZhkV3Hdqhpvbb35XwmX5qp9tL5Q5y*1k8XuV4iO*p9*naI*e1oUkHDzr987DqnBCPaM9kBbwfBRQ52XA99xzI*jS8RYGEq"
-    }
-  ]
-}
-
+const TEST_ACCOUNT ={"sdkappid":1400215693,"users":[{"userId":"Miniprogram_trtc_01","userToken":"eJxlj0FPg0AYRO-8CsJVo7tQlmLiARDTWk1LoUk5bZBd8FNYcFloG*N-N9ImkjjX9zKT*dJ0XTeS5-gmy-OmF4qqU8sN-U43kHH9B9sWGM0UtST7B-mxBclpViguR4ht2zYRmjrAuFBQwMV4AQGtbEqZ1VRJlVOEJ3LHPui4eG6bIWRim7jWVIHyXBTuguXC8WF-QH2-jrzhPU2CGB7qxypa*ci5SuQ2XpTb1WulgjfTg9CbpfMhrWpg-tNx79x*Lt2AhKdk4-mJ6JhLNlF2ECQJWbG7n0wqqPnlHkE2sVw8n9CByw4aMQomwjY2LfQbQ-vWfgCFfGII"},{"userId":"Miniprogram_trtc_02","userToken":"eJxlj1FPgzAYRd-5FYRno6VQNkz2MJeyzDgFxZj50hAo*AmF0hVlM-53I1tiE*-rObk398uybdtJ754uszzvhlYzfZDcsa9tBzkXf1BKKFimmaeKf5CPEhRnWam5mqBLCMEImQ4UvNVQwtnYQgtSdZXKBNNK5wxhQ94XNZsWT20*QtglQeiZClSnIpqsNqvdIWoa3Oi*DGfi3ufQf47zl-w1Jc*zNe4hpXmVoAivoyUsmyON6ji*pZLebOLmQY0xrt*H0uuE2L75jxRd8W7XD75IFgtjUoPg53sBIoEXunODfnC1h66dBIxc4mIP-caxvq0f38Niwg__"},{"userId":"Miniprogram_trtc_03","userToken":"eJxlj01Pg0AURff8CsJWo2*AATFxMWmQVIqaKpquJgRmyEvLR6ZDC5j*dyNtIsa7PSf35n4Zpmla76u3myzPm67WXA*tsMx70wLr*he2LRY809xRxT8o*haV4JnUQk2QUEptgLmDhag1SrwYCdbYqqZUWcW10jkHZybviy2fFs9tLoBNqBf8UbA8F4XpYsnWy64CjJJAurHuN45fj32Cm-XzQG7tuEmrYSf9sTzKF4YhKx*JfGWHKhw8Focsws*OXfkiKsfxCB9Pi62-W1GaBkHsPswmNVbics8D6jkBuZvRg1B7bOpJsIFQYjvwE8s4Gd*njmIM"},{"userId":"Miniprogram_trtc_04","userToken":"eJxlj81ugkAYRfc8BWFrU*fHgdIdiiFaKbaFalcTwgz4VYHJOLVq03dviiYl6d2ek3tzvyzbtp108XKbF0X70RhuTko69r3tIOfmDyoFgueGUy3*QXlUoCXPSyN1BzFjjCDUd0DIxkAJVyOGBpRuK53X3GhTcDTqyXux5d3ipW2EEMHM9WlfgepSNH2bzJ7C8zLJTEgeo80wWMIKP5vE260P4faV7pQaq3KdeVls6jL4nG2CxANa*fFwINOHIFktvArpScRSNp3PhYwGp*iE3sctPgrSmzRQy*s9FzGX*viuRw9S76FtOoEgzDCh6DeO9W39AFoVYYI_"}]}
 module.exports = TEST_ACCOUNT;
